@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 # Author: Ryan Scott
-# Purpose: Solve problem 003 of the Euler Project
+# Purpose: Solve problem 004 of the Euler Project
 # Assumes: Python 2.7
 #
 # A palindromic number reads the same both ways. The largest palindrome made 
@@ -33,9 +33,6 @@ def is_product_of_two_3_digit_numbers(num):
                 return True
         one_divisor -= 1
     return False
-    
-#print "is_product_of_two_3_digit_numbers(1): " + str(is_product_of_two_3_digit_numbers(1))
-#print "is_product_of_two_3_digit_numbers(100000): " + str(is_product_of_two_3_digit_numbers(100000))
 
 # maintain state of loop
 largest = 0
