@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 # Author: Ryan Scott
-# Purpose: Solve problem 004 of the Euler Project
+# Purpose: Solve problem 005 of the Euler Project
 # Assumes: Python 2.7
 #
 # 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.

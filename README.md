@@ -3,5 +3,5 @@ This is an attempt at doing the euler project in perhaps various languages. The 
 - Python
 - Lua
 
-Languages I'll absolutely never used unless forced at gunpoint:
+Languages I'll absolutely never use unless forced at gunpoint:
 - Perl
